@@ -21,7 +21,7 @@ int main()
         if(c==4)
         {
 
-            if((ar[0]==ar[1])&&(ar[2]==ar[3]))
+            if((ar[0]^ar[1] == 0)&&(ar[2] ^ ar[3] == 0))
             {
                 cout<<"Number is: "<<m;
                 break;
