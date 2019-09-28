@@ -1,2 +1,2 @@
 # OOP
-Btech semester 3 lab1 exercise
+B-tech semester 3 lab1 exercise
