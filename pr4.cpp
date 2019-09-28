@@ -10,7 +10,7 @@ int fact(int num)
 int main()
 {
     int n;
-    cout<<"Enter the number"<<endl;
+    cout<<"Enter a number"<<endl;
     cin>>n;
     int fa=fact(n);
     cout<<fa;
